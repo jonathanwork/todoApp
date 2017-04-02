@@ -1,5 +1,5 @@
-# hapi-swagger-skeleton
-hapi swagger skeleton works for making documentated api if you could donate that would be cool.
+# hapijs todo app
+hapi js todoapp written in with mongodb
 # installation
 
 to install just type in
