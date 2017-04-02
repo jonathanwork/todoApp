@@ -1,26 +1,30 @@
 {
-  "name": "todoApp",
+  "name": "skeleton",
   "version": "1.0.0",
-  "description": "this is a simple to do app",
+  "description": "hapi and browser-sync test development",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonathanwork/todoApp.git"
+    "url": "git+https://github.com/jonathanwork/hapi-swagger-skeleton.git"
   },
   "keywords": [
-    "todoApp written in hapi"
-    ,"hapi"
-    ,"mongodb"
+    "hapi-swagger-skeleton",
+    "swagger",
+    "hapi",
+    "browser-sync",
+    "pug",
+    "sass",
+    "coffee"
   ],
   "author": "Jonathan R. Lopez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jonathanwork/todoApp/issues"
+    "url": "https://github.com/jonathanwork/hapi-swagger-skeleton/issues"
   },
-  "homepage": "https://github.com/jonathanwork/todoApp#readme",
+  "homepage": "https://github.com/jonathanwork/hapi-swagger-skeleton#readme",
   "dependencies": {
     "hapi": "16.1.x",
     "hapi-swagger": "7.7.x",
